@@ -1,6 +1,6 @@
 # BlockChain for Supply Chain Management WebApp
 
-The **User Management WebApp** is a full-stack Java application designed to perform CRUD (Create, Read, Update, Delete) operations for user data management. This application uses a MySQL database for data storage, is deployed on an Apache Tomcat server, and features a front end built with HTML, CSS, and JavaScript.
+The **BlockChain for Supply Chain Management WebApp** is a full-stack Java application designed to perform CRUD (Create, Read, Update, Delete) operations for user data management. This application uses a MySQL database for data storage, is deployed on an Apache Tomcat server, and features a front end built with HTML, CSS, and JavaScript.
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
